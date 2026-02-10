@@ -435,4 +435,4 @@ MIT License - VeidaLabs Assignment
 
 ---
 
-**Built with ❤️ for VeidaLabs**
+**Built By FAIZAN UR REHMAN for VeidaLabs**
