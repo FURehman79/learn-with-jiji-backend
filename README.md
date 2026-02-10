@@ -426,8 +426,9 @@ class AIService {
 ## 📞 Support
 
 For questions or issues:
-- Email: hello@veidalabs.com
-- GitHub: [Link to your repo]
+- Email: ufaizan685@gmail.com
+- GitHub: [https://github.com/FURehman79]
+- Linkedin: [www.linkedin.com/in/faizan-ur-rehman-666661248]
 
 ## 📄 License
 
